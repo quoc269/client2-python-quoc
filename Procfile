@@ -1,0 +1,1 @@
+web: gunicorn UD_Quan_ly_Chi_nhanh:DichVu
